@@ -2,7 +2,7 @@
 
 **`Physicist • Python Developer • Scientific & Business Data Analyst`**
 
-> 📘 _Prefer to read in Portuguese? Veja a versão [aqui](README_pt.md)._
+> 📘 _Prefer to read in Portuguese? Veja a versão [aqui](README_Pt.md)._
 
 I’m a physicist (PhD – UFMG) and postdoctoral researcher at IFGW/Unicamp, with over **5 years of experience in programming**, specializing in scientific data analysis and Python development. I work at the interface between academic research and real-world problem-solving, using clean, scalable code to turn raw data into actionable insight.
 
