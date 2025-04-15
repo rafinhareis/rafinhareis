@@ -36,9 +36,9 @@ Participei de diversos artigos científicos revisados por pares em que todo o pr
 
 | Projeto | Descrição |
 |--------|-------------|
-| [**STMnanosurf**](https://github.com/rafinhareis/STMnanosurf) | Ferramentas para análise de dados STM/STS, extração de espectros e mapeamento 2D. |
-| [**XPSFitTools**](https://github.com/rafinhareis/XPSFitTools) | Ajuste de curvas para dados de XPS com correção de fundo e modelagem de linhas. |
-| [**QETools**](https://github.com/rafinhareis/QETools) | Scripts para pós-processamento de saídas do Quantum ESPRESSO e análise de work function. |
+| [**STStools**](https://github.com/rafinhareis/STMnanosurf) | Ferramentas para análise de dados STM/STS, extração de espectros e mapeamento 2D. |
+| [**VADS**](https://github.com/rafinhareis/vads) | Visualização e tratamento de dados para ARPES. |
+| [**DFTAnalyzer**](https://github.com/rafinhareis/DFTAnalyzerLib) | Scripts para pós=procesamendo dos softwares Quantum ESPRESSO e Siesta.|
 
 ---
 
