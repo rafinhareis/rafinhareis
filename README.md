@@ -46,7 +46,7 @@ I’ve authored several peer-reviewed papers where all the data processing, visu
 
 | Project | Description |
 |--------|-------------|
-| [**STStools**](https://github.com/rafinhareis/STMnanosurf) | Tools for STM and STS data analysis, spectra extraction, and 2D mapping. |
+| [**STStools**](https://github.com/rafinhareis/ststools) | Tools for STM and STS data analysis, spectra extraction, and 2D mapping. |
 | [**VADS**](https://github.com/rafinhareis/vads) | Visualization and treatmeant for ARPES data. |
 | [**DFTAnalyzer**](https://github.com/rafinhareis/DFTAnalyzerLib) | Scripts for post-processing Quantum ESPRESSO and Siesta outputs. |
 
